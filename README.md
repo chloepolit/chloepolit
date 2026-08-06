@@ -2,58 +2,35 @@
 
 🎓 Computer Science & Interactive Media Double Major at Worcester Polytechnic Institute (Class of 2027)
 
-I'm a software engineer and UX-focused developer passionate about building products that solve real user problems. My work spans full-stack development, interface design, game technology, and enterprise software, with a strong focus on creating intuitive, impactful experiences.
+I'm passionate about building technology that combines strong software engineering with thoughtful user experience design. My background spans software development, UX research, game technology, and product-focused prototyping, with a particular interest in creating intuitive solutions to complex problems.
 
-Recently, I worked as an IT Applications Intern at American Airlines, where I developed proof-of-concept tools, explored observability platforms, and designed customer-facing product concepts. I enjoy bridging the gap between technical implementation and thoughtful user experience design.
+Most recently, I worked as an IT Applications Intern at American Airlines, where I contributed to enterprise software initiatives and explored the intersection of technology, operations, and customer experience.
 
-## 🚀 What I'm Working On
-
-- Building full-stack web applications with modern frontend frameworks
-- Exploring UX research, interaction design, and product development
-- Developing game systems and interactive experiences
-- Learning more about scalable platform and enterprise software architecture
-
-## 💡 Interests
+## 🚀 Professional Interests
 
 - Software Engineering
 - User Experience (UX) Design
+- Full-Stack Development
 - Product Development
-- Game Development
 - Human-Computer Interaction
-- Platform Engineering
+- Interactive Media & Game Development
 
-## 🛠️ Technical Skills
+## 🎯 What I Bring
 
-### Languages
+- Experience building full-stack applications from concept to implementation
+- Strong foundation in object-oriented programming and software design
+- User-centered approach to solving technical problems
+- Research experience in gamification, user engagement, and interactive systems
+- Ability to bridge technical development, design, and business needs
 
-![C++](https://img.shields.io/badge/C%2B%2B?style=for-the-badge&logo=cplusplus&logoColor=white
-![TypeScript](https://img.shields.io/badge/TypeScript-or-the-badge&logo=typescript&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E://img.shields.io/badge/Java-EDle=for-the-badge&logo=openjdk&logoColor=white
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logogoColor=white
-![R](https://img.shieldsadge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+## 🌱 Currently Learning
 
-### Frontend & Development
-
-![React](https://img.shields.io/badge/React-202=for-the-badge&logo=react
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&tjs
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=oColor=white
-![Git](https://elds.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHubyle=for-the-badge&logo=github
-
-### Design & Research
-
-![Figma](https://img.shields.io/badge4E1E?style=for-the-badge&logo=figma&logoColor=white
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=adge&logo=adobe&logoColor=white
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=oColor=white
-
-### Tools & Platforms
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&ack
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logoNotion](https://img.shields.io/badge0000?style=for-the-badge&logo=notion
-![Yarn](https://img.shields.io/badge8EBB?style=for-the-badge&logo=yarn&logoColor=white
+- Modern web application architecture
+- Advanced UX research and design methodologies
+- Enterprise software systems
+- Product strategy and innovation
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgen&logoColor=white](https://www.linkedin.com/in/chloe-polit-5b680a293)
-
-[![Email](https://img.shields.io/badge/Email-D14836-the-badge&logo=gmail&logoColor=white](mailto:chloepolit@wpi.edu)D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:chloepolit@wpi.edu)
+- LinkedIn: <https://www.linkedin.com/in/chloe-polit-5b680a293>
+- Email: <mailto:chloepolit@wpi.edu>
