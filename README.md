@@ -45,4 +45,6 @@ https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteIN_URL) https://www.linkedin.com/in/chloe-polit-5b680a293?trk=people-guest_people_search-card)
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&white](mailto:chloepolit@wpi.edu)
